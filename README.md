@@ -2,6 +2,9 @@
 [Link a la Consigna]
 [https://docs.google.com/document/d/1BDpr5lfzOAqmOOgcAVg6rUqvMPUfCpMSz1u1J_Vjtac/edit](https://docs.google.com/document/d/1xYmkJXRRddM51fQZfxr3CEuhNtFCWe5YU7hhvsUnTtg/edit#heading=h.nm1zk6pu7e78)
 
+Tp realizado en conjunto con compañeros de la UTN: Ignacio Villaruel, Luciano Rodriguez, Juan Martin Villagra, Juan Ignacio Borda y Ignacio Fernandez.
+Para el trabajo en cuestion se realizo todo con lenguaje C y utilizamos makefiles. Fue aprobado con 8.
+
 ## Vistazo general
 Sistema distribuído concurrente que simula algunos aspectos del funcionamiento de un S.O de libro como visto en el Stallings o el Silberschatz.
 
